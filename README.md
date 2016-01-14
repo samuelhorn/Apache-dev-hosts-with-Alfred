@@ -1,6 +1,16 @@
 # Apache-dev-hosts-with-Alfred
 Smooth workflow for adding development hosts to httpd-vhosts.conf &amp; hosts on OSX El Capitan. Consists of one shellscript and one Alfred workflow.
 
+## Screenshots
+### Alfred input
+![Alfred input screenshot](https://raw.github.com/samuelhorn/Apache-dev-hosts-with-Alfred/master/Screenshots/alfred.jpg)
+
+### httpd-vhosts output
+![httpd-vhosts output screenshot](https://raw.github.com/samuelhorn/Apache-dev-hosts-with-Alfred/master/Screenshots/httpd-vhosts.jpg)
+
+### hosts output
+![hosts output screenshot](https://raw.github.com/samuelhorn/Apache-dev-hosts-with-Alfred/master/Screenshots/hosts.jpg)
+
 # Installation
 ## In OSX
 1. Place the add-host.sh file somewhere on your system (mine is in ~/Sites/scripts/).
